@@ -3,5 +3,5 @@ var chocolateBars = ['snickers', 'hundred grand', 'kitkat', 'skittles']
 //   chocolateBars.unshift(candy)
 //   return chocolateBars;
 // }
-// 
+//
 // // function destructivelyAddElementToBeginningOfArray(){}
